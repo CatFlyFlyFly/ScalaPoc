@@ -1,0 +1,13 @@
+compile
+run-main HelloWorld
+run-main app.HelloWorld
+reload
+run-main app.HelloWorld
+reload
+run-main app.HelloWorld
+reloaad
+reload
+run-main app.HelloWorld
+test 
+reload; test
+;reload; test
