@@ -1,4 +1,4 @@
-name := "ScalaPoc"
+name := "scala-poc"
 
 version := "1.0"
 
