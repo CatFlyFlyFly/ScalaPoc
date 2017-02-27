@@ -1,4 +1,4 @@
-name := "scala-poc"
+name := "scala-sbt-template"
 
 version := "1.0"
 

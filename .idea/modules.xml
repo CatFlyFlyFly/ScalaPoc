@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala-poc.iml" filepath="$PROJECT_DIR$/.idea/modules/scala-poc.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala-poc-build.iml" filepath="$PROJECT_DIR$/.idea/modules/scala-poc-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala-sbt-template.iml" filepath="$PROJECT_DIR$/.idea/modules/scala-sbt-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala-sbt-template-build.iml" filepath="$PROJECT_DIR$/.idea/modules/scala-sbt-template-build.iml" />
     </modules>
   </component>
 </project>
