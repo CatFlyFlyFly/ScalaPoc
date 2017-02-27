@@ -1,5 +1,3 @@
-package app
-
 /**
   * Created by catfly on 12/21/16.
   */

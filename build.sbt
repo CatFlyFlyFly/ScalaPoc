@@ -4,7 +4,7 @@ version := "1.0"
 
 scalaVersion := "2.12.1"
 
-scalaSource in Compile := baseDirectory.value / "main"
+scalaSource in Compile := baseDirectory.value / "app"
 
 scalaSource in Test := baseDirectory.value / "test"
 
